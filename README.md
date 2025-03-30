@@ -1,4 +1,4 @@
-https://github.com/kikumba-fashions/Kikumba-fashions-/blob/main/README.# Kikumba-fashions-
+git clone https://github.com/username/repository-name.githttps://github.com/kikumba-fashions/Kikumba-fashions-/blob/main/README.# Kikumba-fashions-
 For fashions needs 
 <!DOCTYPE html>
 <html lang="en">
